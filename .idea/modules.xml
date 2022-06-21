@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jpetstore_front_vue.iml" filepath="$PROJECT_DIR$/.idea/jpetstore_front_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypetstore-client-back/mypetstore-client.iml" filepath="$PROJECT_DIR$/mypetstore-client-back/mypetstore-client.iml" />
+    </modules>
+  </component>
+</project>
